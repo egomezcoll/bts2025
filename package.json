@@ -14,7 +14,6 @@
   "dependencies": {
     "@ionic/react": "^8.5.0",
     "@ionic/react-router": "^8.5.0",
-    "@rollup/rollup-darwin-x64": "^4.40.2",
     "@types/react-router": "^5.1.20",
     "@types/react-router-dom": "^5.3.3",
     "ionicons": "^7.4.0",
@@ -24,7 +23,8 @@
     "react-router-dom": "^5.3.4"
   },
   "optionalDependencies": {
-    "@esbuild/darwin-x64": "^0.25.4"
+    "@esbuild/darwin-x64": "^0.25.4",
+    "@rollup/rollup-darwin-x64": "^4.40.2"
   },
   "devDependencies": {
     "@testing-library/dom": ">=7.21.4",
