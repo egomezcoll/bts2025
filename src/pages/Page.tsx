@@ -62,10 +62,7 @@ const Page: React.FC = () => {
             <IonTitle size="large">{name}</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <div className="ion-padding">
-          <h1>Welcome BTS 2025!</h1>
-          <p>This is your personalized page.</p>
-        </div>
+        <p>hello</p>
         {cardContent.map((item, index) => (
           <IonCard key={index}>
             <img
