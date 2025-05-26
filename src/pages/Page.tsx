@@ -63,7 +63,7 @@ const Page: React.FC = () => {
           </IonToolbar>
         </IonHeader>
         <div className="ion-padding">
-          <h1>Welcome BTS!</h1>
+          <h1>Welcome BTS 2025!</h1>
           <p>This is your personalized page.</p>
         </div>
         {cardContent.map((item, index) => (
